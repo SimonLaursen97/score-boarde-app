@@ -1,5 +1,5 @@
 let home = 0
-let guest = 0
+let guest = 1
 
 document.getElementById("homeScore").textContent = home
 document.getElementById("guestScore").textContent = guest
